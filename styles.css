@@ -18,12 +18,8 @@ audio {
   padding-top: 8rem !important;
 }
 
-.half-vh-div {
-  height: 50vh;
-}
-
-.quarter-vh-div {
-  height: 25vh;
+.max-vh-div {
+  height: 100vh;
 }
 
 .fill-width {
