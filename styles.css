@@ -1,0 +1,31 @@
+body {
+  background-image: url(./bearing.png);
+  width: 100%;
+  height: 100%;
+  background-position: 50%;
+  background-size: cover;
+  position: relative;
+}
+
+img,
+video,
+a,
+audio {
+  width: inherit;
+}
+
+.second-section-padding {
+  padding-top: 8rem !important;
+}
+
+.half-vh-div {
+  height: 50vh;
+}
+
+.quarter-vh-div {
+  height: 25vh;
+}
+
+.fill-width {
+  width: 100%;
+}
